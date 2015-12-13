@@ -12,5 +12,4 @@ function findSumOfMultiples(min, max, firstMultiple, secondMultiple) {
   return sumOfMultiples
 }
 
-
 console.log(findSumOfMultiples(0, 1000, 3, 5))
