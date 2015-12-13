@@ -1,5 +1,5 @@
 function isMultiple(divisor, firstDiv, secondDiv) {
-  return (number % firstDiv * secondDiv == 0) ? true : (number % firstDiv == 0) ? true : (number % secondDiv == 0) ? true : false
+  return (number % firstDiv == 0) ? true : (number % secondDiv == 0) ? true : false
 }
 
 function findSumOfMultiples(min, max, firstMultiple, secondMultiple) {
