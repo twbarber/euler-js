@@ -1,6 +1,6 @@
-Solving Euler Problems with JavaScript
+#Solving Euler Problems with JavaScript
 
-Warning: Spoilers
+##Warning: Spoilers
 
 **Euler 1**  - 233168  
 **Euler 2**  - 4613732  
