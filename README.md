@@ -8,7 +8,7 @@ Euler 3  - 6857
 Euler 4  - 906609
 Euler 5  - 232792560
 Euler 6  - 25164150
-Euler 7  -
+Euler 7  - 104743
 Euler 8  -
 Euler 9  -
 Euler 10 -
