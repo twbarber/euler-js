@@ -7,13 +7,17 @@ function Triangle(a, b, c) {
 function getTriangle() {
   for (a = 1; a < 1000; a++) {
     for (b = 1; b < 1000; b++) {
-      var cSquared = (a*a + b*b);
-      var c = Math.pow(cSquared, .5);
+      var c = getC(a,b);
       if (a + b + c == 1000) {
         return new Triangle(a, b, c);
       }
     }
   }
+}
+
+function getC(a, b) {
+  var cSquared = (a*a + b*b);
+  return Math.pow(cSquared, .5);
 }
 
 function getProductOfSides(triangle) {
