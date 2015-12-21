@@ -1,7 +1,10 @@
 #Solving Euler Problems with different languages
 
-**Warning: Spoilers**
+###JavaScript - 9
+###Python     - 8
+###Swift      - 1
 
+**Warning: Spoilers**
 **Euler 1**  - 233168  
 **Euler 2**  - 4613732  
 **Euler 3**  - 6857  
@@ -10,9 +13,5 @@
 **Euler 6**  - 25164150  
 **Euler 7**  - 104743  
 **Euler 8**  - 23514624000
-**Euler 9**  - 31875000 
+**Euler 9**  - 31875000
 **Euler 10** -  
-**Euler 11** -  
-**Euler 12** -  
-**Euler 13** -  
-**Euler 14** -  
