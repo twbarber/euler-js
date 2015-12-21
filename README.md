@@ -1,10 +1,10 @@
 #Solving Euler Problems with different languages
 
-###JavaScript - 9
-###Kotlin     - 0
-###Python     - 8
-###Ruby       - 0
-###Swift      - 0
+* JavaScript - 9
+* Kotlin     - 0
+* Python     - 8
+* Ruby       - 0
+* Swift      - 0
 
 **Warning: Spoilers**
 **Euler 1**  - 233168  
